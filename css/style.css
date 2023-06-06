@@ -94,3 +94,7 @@ body {
 .adjust_position {
     margin-left: 88%;
 }
+
+.viewOne, .viewTwo, .viewThree {
+    cursor: pointer;
+}
