@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(1, 1, 36);
+}
+
+.card-wrapper {
+    margin-top: 1%;
+}
+
+.card {
+    margin-top: 5%;
+    width: 65%;
+    margin-left: 17%;
+    border-radius: 15px;
+}
+.icon img {
+    width: 40%;
+    height: 100%;
+    border-radius: 6px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.row {
+    margin-bottom: 5%;
+    margin-left: 7%;
+}
+
+.search-input {
+    background-color: #DAE0E5;
+}
+
+.color_23 {
+    background-color: #DAE0E5;
+}
+
+.head_toggler {
+    margin-left: 10%;
+    width: 80%;
+    padding-left: 80px;
+}
+
+.adjust {
+    width: 100%;
+}
+
+.q-code {
+    display: none;
+}
+.q-code img {
+    margin-top: 15%;
+    width: 150%;
+    margin-left: 35%;
+}
+
+.base_no {
+    margin-left: 40%;
+    margin-top: 3%;
+    margin-bottom: 0%;
+    gap: 8%;
+}
+
+#modal {
+    position: absolute;
+    z-index: -1;
+    top: 6%;
+}
+
+.close {
+    position: absolute;
+    left: 75%;
+    top: 1%;
+}
+
+.logo-section {
+    display: flex;
+    align-items: center;
+    gap: 0.4%;
+    position: absolute;
+    top: 1%;
+    left: 21%;
+}
+
+.logo-section img {
+    width: 8%;
+}
+
+.walletTwo {
+    display: none;
+}
+
+.walletThree {
+    display: none;
+}
+
+.adjust_position {
+    margin-left: 88%;
+}
