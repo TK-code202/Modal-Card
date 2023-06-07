@@ -1,4 +1,6 @@
+//UI Logic
 $(document).ready(function() {
+    //Modal Page Toggler Functions
     $("#option1").click(function() {
         $(".wallet").hide();
         $(".walletTwo").hide();
@@ -34,6 +36,7 @@ $(document).ready(function() {
         $(".walletThree").show();
     });
 
+    //Modal Button functions
     $("#modal").click(function() {
         $(".card-wrapper").show();
     });
