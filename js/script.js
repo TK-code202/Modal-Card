@@ -37,9 +37,9 @@ $(document).ready(function() {
     });
 
     //Modal Button functions
-    $("#modal").click(function() {
-        $(".card-wrapper").show();
-    });
+    // $("#modal").click(function() {
+    //     $(".card-wrapper").show();
+    // });
 
     $(".close").click(function() {
         $(".card-wrapper").hide();
